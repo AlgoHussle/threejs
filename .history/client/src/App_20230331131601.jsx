@@ -4,12 +4,9 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <main className="app transition-all ease-in ">
-      <Home />
-      <Canvas />
-      <Customizer />
-      </main>
-      
+    <div className="head-text ">
+      <h1>Threejs App</h1>
+      </div>
   )
 }
 
