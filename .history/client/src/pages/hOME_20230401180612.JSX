@@ -8,7 +8,6 @@ import {
   headTextAnimation, 
   slideAnimation 
 } from '../config/motion' ;
-import { CustomButton } from '../components';
 
 
 

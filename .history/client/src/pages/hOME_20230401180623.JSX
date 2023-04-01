@@ -39,7 +39,7 @@ const Home = () => {
                       brand-new 3D customization tool. <strong> Unleash your imagination
                       </strong>{" "} and define your own style. </p>
 
-                      <CustomButton 
+                      <CustomomButton 
                       type="filled"
                       title="Customize Now"
                       handleClick={() => state.intro = false}

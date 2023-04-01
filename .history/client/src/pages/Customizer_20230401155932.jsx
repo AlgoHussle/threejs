@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { motion, Anima } from 'framer-motion'
 
 
 const Customizer = () => {
